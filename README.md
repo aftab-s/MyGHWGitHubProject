@@ -1,5 +1,5 @@
-#GHW Week1
-#Intro to Git
+# GHW Week1
+# Intro to Git
 
 Hey folks,
 Welcome to my project
